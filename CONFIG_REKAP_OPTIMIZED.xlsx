@@ -1,0 +1,9 @@
+id,jenis_asset,rule_tipe,kondisi_field,nilai_default,kapasitas_field,keterangan
+1,BESS,include,status=Aktif,1,kapasitas_bess,Hitung total kapasitas dari field kapasitas_bess
+2,PLTS,include,status=Aktif,1,,Counter jumlah aset
+3,Generator,include,status=Aktif,1,,Counter jumlah aset
+4,Trafo,include,status=Aktif,1,,Counter jumlah aset
+5,Kapasitor,include,status=Aktif,1,,Counter jumlah aset
+6,Reaktor,include,status=Aktif,1,,Counter jumlah aset
+7,Disconnect,include,status=Aktif,1,,Counter jumlah aset
+8,Recloser,include,status=Aktif,1,,Counter jumlah aset
