@@ -1,0 +1,7 @@
+id,unit_id,unit_name,owner_asset,lokasi,created_date
+1,UP3-001,UP3 Surabaya,UP3,Surabaya,2024-01-01
+2,UP3-002,UP3 Gresik,UP3,Gresik,2024-01-01
+3,APP-001,APP Jakarta,APP,Jakarta,2024-01-01
+4,APP-002,APP Bandung,APP,Bandung,2024-01-01
+5,APJ-001,APJ Medan,APJ,Medan,2024-01-01
+6,APJ-002,APJ Palembang,APJ,Palembang,2024-01-01
