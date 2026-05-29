@@ -1,0 +1,9 @@
+id,asset_id,jenis_asset,unit_id,lokasi_asset,kapasitas_bess,spesifikasi,status,created_date
+1,AST-001,BESS,UP3-001,Surabaya A,50,Li-Ion 50MWh,Aktif,2024-01-01
+2,AST-002,BESS,UP3-001,Surabaya B,75,Li-Ion 75MWh,Aktif,2024-01-01
+3,AST-003,PLTS,UP3-001,Surabaya Solar,0,100MW,Aktif,2024-01-01
+4,AST-004,Generator,UP3-001,Backup Gen 1,0,50MW Diesel,Aktif,2024-01-01
+5,AST-005,BESS,APP-001,Jakarta A,100,Li-Ion 100MWh,Aktif,2024-01-01
+6,AST-006,PLTS,APP-001,Jakarta Solar,0,150MW,Aktif,2024-01-01
+7,AST-007,BESS,APJ-001,Medan A,60,Li-Ion 60MWh,Aktif,2024-01-01
+8,AST-008,Generator,APJ-001,Medan Gen,0,40MW,Aktif,2024-01-01
